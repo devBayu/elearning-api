@@ -1,8 +1,11 @@
 <component name="ProjectDictionaryState">
   <dictionary name="developer">
     <words>
+      <w>dotenv</w>
       <w>erlang</w>
       <w>erlearning</w>
+      <w>regenerator</w>
+      <w>sequelize</w>
     </words>
   </dictionary>
 </component>
